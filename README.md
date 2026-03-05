@@ -8,6 +8,14 @@ I am intentionally engineering myself into a **Lead Distributed Systems Engineer
 
 ---
 
+## 📊 GitHub Stats
+
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoddd&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egoddd&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=egoddd&theme=github-dark)
+
+---
+
 # 🚀 Flagship Project
 
 ## CoverageProject
