@@ -8,6 +8,17 @@ I am intentionally engineering myself into a **Lead Distributed Systems Engineer
 
 ---
 
+## Core Engineering Projects
+
+| Repository | Focus |
+|-------------|------|
+| CoverageProject | Distributed insurance platform built with Clean Architecture |
+| event-driven-dotnet | Event-driven architecture using RabbitMQ |
+| quant-infrastructure-lab | Financial market data pipeline experiments |
+| dotnet-performance-lab | Performance benchmarking with BenchmarkDotNet |
+
+---
+
 ## 📊 GitHub Stats
 
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoddd&show_icons=true&theme=github_dark)
